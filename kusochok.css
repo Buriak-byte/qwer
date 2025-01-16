@@ -1,0 +1,94 @@
+.qwe {
+  color: pink;
+}
+#greycol {
+  color: grey;
+}
+.qaz {
+  color: red;
+}
+.css {
+  color: green;
+}
+.yellow {
+  color: yellow;
+}
+.tyty {
+  color: indianred;
+  background-color: purple;
+}
+.tyty:nth-child(3n) {
+  fill: rgb(186, 108, 255);
+  background-color: blue;
+  color: plum;
+}
+.rew {
+  color: midnightblue;
+  background-color: cornflowerblue;
+}
+.rew:hover {
+  cursor: pointer;
+  color: red;
+  background-color: greenyellow;
+}
+.class {
+  color: gold;
+  background-color: orangered;
+}
+.class:hover {
+  cursor: pointer;
+  background-color: cornflowerblue;
+  color: cyan;
+}
+.wsx {
+  background-color: firebrick;
+  color: darkviolet;
+}
+.kill {
+  background-color: deeppink;
+  color: forestgreen;
+}
+.krapochka {
+  background-color: chartreuse;
+  color: mistyrose;
+}
+.koma {
+  background-color: aqua;
+  color: maroon;
+}
+.Kauchen {
+  background-color: lawngreen;
+  color: orangered;
+}
+.trombobom.trombobom:hoover {
+  color: aqua;
+}
+.wery {
+  width: 29px;
+  height: 23px;
+  background-color: blueviolet;
+}
+.wery:hover {
+  cursor: pointer;
+  color: greenyellow;
+  background-color: lightcoral;
+}
+.wery:active {
+  cursor: pointer;
+  color: maroon;
+  background-color: violet;
+}
+#id {
+  background-color: indianred;
+  color: black;
+}
+#id:focus {
+  outline: 3px dotted;
+}
+.uy {
+  width: 52px;
+  height: 2px;
+  margin: 0 auto;
+  padding: 15px;
+  box-sizing: border-box;
+}
